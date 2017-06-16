@@ -1,4 +1,4 @@
 # obsrvr
-React Inter-Component Communication channel
+Javascript Component Communication Network
 
 on progress----------
